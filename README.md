@@ -41,7 +41,7 @@
 
 ### Diagram:  
 
-![alt Text]("images/ansible.png")
+![alt Text](https://github.com/Benoniy/eng84_IAC_ansible/blob/main/images/ansible.png)
 
 ### AdHoc commands:  
 * `ansible host -a "command"` - Run a command on a host and get the result  
