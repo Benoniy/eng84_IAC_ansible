@@ -39,9 +39,14 @@
 * No previous knowledge needed
 * Use ad-hock commands for simple operations (run a command on an agent and get the return)
 
-### Diagram:  
-
+### Diagrams:  
+Ansible:
 ![alt Text](https://github.com/Benoniy/eng84_IAC_ansible/blob/main/images/ansible.png)
+
+
+AWS scalability with load balancing
+![alt Text](https://github.com/Benoniy/eng84_IAC_ansible/blob/main/images/scalability_and_security.png)
+
 
 ### AdHoc commands:  
 * `ansible host -a "command"` - Run a command on a host and get the result  
@@ -83,3 +88,10 @@
     - name: Enable nginx at boot
       service: name=nginx state=restarted enabled=yes
 ```
+
+
+### How do I secure keys?  
+* Ansible vault
+  * ansible
+  * python3-pip
+  * boto3
