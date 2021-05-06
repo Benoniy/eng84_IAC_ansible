@@ -83,3 +83,5 @@
     - name: Enable nginx at boot
       service: name=nginx state=restarted enabled=yes
 ```
+
+## [Practicle Implementation](https://github.com/Benoniy/ansible_controller)
