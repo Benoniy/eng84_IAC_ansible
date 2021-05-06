@@ -84,4 +84,4 @@
       service: name=nginx state=restarted enabled=yes
 ```
 
-## [Practicle Implementation](https://github.com/Benoniy/ansible_controller)
+## [Click here to see a practical implementation](https://github.com/Benoniy/ansible_controller)
