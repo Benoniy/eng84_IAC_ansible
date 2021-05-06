@@ -95,3 +95,6 @@ AWS scalability with load balancing
   * ansible
   * python3-pip
   * boto3
+  
+
+## [Click here to see a practical implementation](https://github.com/Benoniy/ansible_controller)
