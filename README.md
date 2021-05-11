@@ -98,3 +98,13 @@ AWS scalability with load balancing
   
 
 ## [Click here to see a practical implementation](https://github.com/Benoniy/ansible_controller)
+
+
+### Private Cloud, Public Cloud, Hybrid cloud
+![alt Text](https://github.com/Benoniy/eng84_IAC_ansible/blob/main/images/priv_pub_hybrid.png)
+
+Use Cases:  
+  Public Cloud - An image hosting website wants to host a collection of publicly accessible images.  
+  Private Cloud - A government department wants to store sensitive information in a convenient to distribute format.  
+  Hybrid Cloud - A software development company wants to rapidly scale their business because of a spike in server 
+load from active users.  
